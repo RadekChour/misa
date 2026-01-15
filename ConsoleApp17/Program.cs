@@ -11,6 +11,7 @@ namespace ConsoleApp17
         static void Main(string[] args)
         {
             Console.WriteLine("ahoj Ráďo");
+            Console.WriteLine("Jak se máš?");
         }
     }
 }
